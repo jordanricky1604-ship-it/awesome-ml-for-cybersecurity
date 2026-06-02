@@ -46,6 +46,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Probing / Port Scan - Dataset ](https://github.com/gubertoli/ProbingDataset)
 * [Aegean Wireless Intrusion Dataset (AWID)](http://icsdweb.aegean.gr/awid/)
 * [BODMAS PE Malware Dataset](https://whyisyoung.github.io/BODMAS/)
+* [Malware Families Catalog](https://jordanricky1604-ship-it.github.io/malware-families-catalog/) - Open catalog of 2,899 real-world malware families extracted from the EMBER 2018 benchmark, with mirrors on [Hugging Face](https://huggingface.co/datasets/Jordan123234/malware-families-catalog) and [Kaggle](https://www.kaggle.com/datasets/rickyjordan/malware-families-catalog).
 
 ## [↑](#table-of-contents) Papers
 
