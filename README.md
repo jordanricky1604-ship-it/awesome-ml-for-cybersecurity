@@ -20,6 +20,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#table-of-contents) Datasets
 
+- [Malware Families Catalog](https://jordanricky1604-ship-it.github.io/malware-families-catalog/) - An expert-curated encyclopedia of 2,899 malware families. Features dynamic MITRE ATT&CK mappings, interactive incident response checklists, actionable IOCs, and is authored by Senior Incident Responders. Datasets available in Parquet/JSONL with a free JSON API. Also on [Kaggle](https://www.kaggle.com/datasets/rickyjordan/malware-families-catalog) and [Hugging Face](https://huggingface.co/datasets/Jordan123234/malware-families-catalog).
+
 * [HIKARI-2021 Datasets](https://zenodo.org/record/5199540)
 * [Samples of Security Related Data](http://www.secrepo.com/)
 * [DARPA Intrusion Detection Data Sets](https://www.ll.mit.edu/r-d/datasets) [ [1998](https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-dataset) / [1999](https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset) ]
